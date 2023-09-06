@@ -31,9 +31,9 @@ Ferdowsi University of Mashhad Data Structures Linked Linear List CPP
 
 
 <!-- Stars -->
-[stars-shield]: https://img.shields.io/github/stars/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/javidchaji/FUM-Data-Structures-Linked-Linear-List-CPP.svg?style=for-the-badge
 
-[stars-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/stargazers
+[stars-url]: https://github.com/javidchaji/FUM-Data-Structures-Linked-Linear-List-CPP/stargazers
 
 
 <!-- Issues -->
