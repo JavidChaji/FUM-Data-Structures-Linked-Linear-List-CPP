@@ -160,5 +160,5 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 
-[CPP.org]: https://img.shields.io/badge/CPP-000000?style=for-the-badge&logo=C++&logoColor=white
+[CPP.org]: https://img.shields.io/badge/CPP-000000?style=for-the-badge&logo=cplusplus&logoColor=white
 [CPP-url]: https://isocpp.org/
