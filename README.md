@@ -51,7 +51,7 @@ Ferdowsi University of Mashhad Data Structures Linked Linear List CPP
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![CPP][CPP.org]][CPP-url]
+* [![CPP][CPP-Shield]][CPP-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -160,5 +160,5 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 
-[CPP.org]: https://img.shields.io/badge/CPP-000000?style=for-the-badge&logo=cplusplus&logoColor=white
+[CPP-Shield]: https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
 [CPP-url]: https://isocpp.org/
