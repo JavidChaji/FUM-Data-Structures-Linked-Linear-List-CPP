@@ -9,7 +9,7 @@
 
 
 
-[![LinkedIn][linkedin-shield]][javid-linkedin-url]
+[![LinkedIn][linkedin-shield]][javid-linkedin-URL]
 
 # linked-linear-list
 
@@ -52,7 +52,7 @@ Ferdowsi University of Mashhad Data Structures Linked Linear List CPP
 Technologies and Tools Utilized in this Project
 
 
-* [![CPP][CPP-Shield]][CPP-url]
+* [![CPP][CPP-Shield]][CPP-URL]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -157,9 +157,9 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- Linkedin -->
 [linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 
-[javid-linkedin-url]: https://linkedin.com/in/javidchaji
+[javid-linkedin-URL]: https://linkedin.com/in/javidchaji
 
 
 
 [CPP-Shield]: https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
-[CPP-url]: https://isocpp.org/
+[CPP-URL]: https://isocpp.org/
