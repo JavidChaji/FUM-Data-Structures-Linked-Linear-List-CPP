@@ -160,7 +160,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [Javid-Linkedin-URL]: https://linkedin.com/in/javidchaji
 
 
-<!-- Linkedin -->
+<!-- C++ -->
 [CPP-Shield]: https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
 
 [CPP-URL]: https://isocpp.org/
