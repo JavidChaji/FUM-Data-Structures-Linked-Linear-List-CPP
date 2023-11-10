@@ -1,13 +1,10 @@
 <a name="readme-top"></a>
 
-
 [![Contributors][Contributors-Shield]][Contributors-URL]
 [![Forks][Forks-Shield]][Forks-URL]
 [![Stargazers][Stars-Shield]][Stars-URL]
 [![Issues][Issues-Shield]][Issues-URL]
 [![MIT License][License-Shield]][License-URL]
-
-
 
 [![LinkedIn][LinkedIn-Shield]][Javid-LinkedIn-URL]
 
@@ -45,18 +42,13 @@ Ferdowsi University of Mashhad Data Structures Linked Linear List CPP
 
 
 
-
-
 ### Built With
 
 Technologies and Tools Utilized in this Project
 
-
 * [![CPP][CPP-Shield]][CPP-URL]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 
 
@@ -75,7 +67,6 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 
@@ -99,7 +90,6 @@ Project Link: [https://github.com/JavidChaji/FUM-Data-Structures-Linked-Linear-L
 
 
 
-
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
@@ -118,9 +108,6 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 
-
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 <!-- https://ileriayo.github.io/markdown-badges/ -->
@@ -129,6 +116,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [Contributors-Shield]: https://img.shields.io/github/contributors/javidchaji/FUM-Data-Structures-Linked-Linear-List-CPP.svg?style=for-the-badge
 
 [Contributors-URL]: https://github.com/javidchaji/FUM-Data-Structures-Linked-Linear-List-CPP/graphs/contributors
+
 
 <!-- Forks -->
 [Forks-Shield]: https://img.shields.io/github/forks/javidchaji/FUM-Data-Structures-Linked-Linear-List-CPP.svg?style=for-the-badge
