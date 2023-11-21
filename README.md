@@ -8,7 +8,7 @@
 
 [![LinkedIn][LinkedIn-Shield]][Javid-LinkedIn-URL]
 
-# linked-linear-list
+# Linked Linear List
 
 Ferdowsi University of Mashhad Data Structures Linked Linear List CPP
 
